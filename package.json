@@ -14,7 +14,7 @@
     "core-js": "^3.6.5",
     "echarts": "^4.8.0",
     "element-ui": "^2.13.2",
-    "i": "^0.3.6",
+    "i": "^0.3.7",
     "koa": "^2.13.0",
     "koa-history-api-fallback": "^1.0.0",
     "koa-static": "^5.0.0",
